@@ -6,6 +6,6 @@
 
 /* Absolute filepath -starts from the root directory */
 body {
-  background-color: rgb(176, 25, 25);
+  background-color: lightgray;
   background-image: url("/assets/images/01-02-02_background-img.jpg");
 }
